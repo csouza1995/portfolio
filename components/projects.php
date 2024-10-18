@@ -6,7 +6,7 @@ $projects = [
     [
         'id' => 1,
         'name' => 'ADEMPweb',
-        'description' => 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta eum dolore, molestiae officia aliquam quos nobis voluptatibus doloribus iste nisi nulla esse numquam quod, deleniti nesciunt. Debitis vero ad commodi.',
+        'description' => 'Uma união entre CRM e ERP, o ADEMPweb é um sistema de gestão empresarial que visa facilitar a vidas do colaborades da empresa Alban. Com ele é possível gerenciar clientes, fornecedores, produtos, vendas, compras, financeiro, estoque, entre outros.',
         'concluded' => false,
         'companies' => ['i-DataBI', 'Alban'],
         'year' => 2020,
@@ -15,7 +15,7 @@ $projects = [
     [
         'id' => 2,
         'name' => 'i-Weldi',
-        'description' => 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta eum dolore, molestiae officia aliquam quos nobis voluptatibus doloribus iste nisi nulla esse numquam quod, deleniti nesciunt. Debitis vero ad commodi.',
+        'description' => 'A primeira aplicação oficial da i-DataBI. O i-Weldi é um sistema de facilita a geração de relatórios de inspeção de solda. Com ele é possível gerar relatórios de inspeção de solda de forma rápida e prática poupando tempo e dinheiro.',
         'concluded' => false,
         'companies' => ['i-DataBI'],
         'year' => 2021,
@@ -24,7 +24,7 @@ $projects = [
     [
         'id' => 2,
         'name' => 'i-Stati',
-        'description' => 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta eum dolore, molestiae officia aliquam quos nobis voluptatibus doloribus iste nisi nulla esse numquam quod, deleniti nesciunt. Debitis vero ad commodi.',
+        'description' => 'Outro software da i-DataBI, o i-Stati é um sistema de gestão de estatísticas. Com ele é possível compilar dados de diferentes formatos e equipamentos para gerar informações estatísticas de forma rápida e prática para ajudar na tomada de decisões e ajustes de processos.',
         'concluded' => false,
         'companies' => ['i-DataBI'],
         'year' => 2021,
@@ -33,7 +33,7 @@ $projects = [
     [
         'id' => 2,
         'name' => 'i-Labi',
-        'description' => 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta eum dolore, molestiae officia aliquam quos nobis voluptatibus doloribus iste nisi nulla esse numquam quod, deleniti nesciunt. Debitis vero ad commodi.',
+        'description' => 'Mais uma solução da i-DataBI, o i-Labi é um sistema de gestão de laboratórios. Com ele é possível controlar o fluxo de laboratórios através de uma sistemática FIFO e gerando informações para que os gestores possam tomar decisões mais assertivas e alocar recursos de forma mais eficiente.',
         'concluded' => false,
         'companies' => ['i-DataBI'],
         'year' => 2021,
