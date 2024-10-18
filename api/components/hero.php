@@ -4,7 +4,7 @@ $heroLinks = [
     ['href' => 'https://www.instagram.com/carlonzon', 'icon' => 'bx bxl-instagram-alt'],
 ];
 
-$profilePath = realpath('./../assets/img/me.png');
+$profilePath = realpath('../assets/img/me.png');
 
 if ($profilePath) {
     $profileImg = 'data:image/png;base64,' . base64_encode(file_get_contents($profilePath));
