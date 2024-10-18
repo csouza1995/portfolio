@@ -6,11 +6,11 @@ $heroLinks = [
 
 $profilePath = realpath('../assets/img/me.png');
 
-if ($profilePath) {
-    $profileImg = 'data:image/png;base64,' . base64_encode(file_get_contents($profilePath));
-} else {
+// if ($profilePath) {
+//     $profileImg = 'data:image/png;base64,' . base64_encode(file_get_contents($profilePath));
+// } else {
     $profileImg = 'https://via.placeholder.com/150';
-}
+// }
 
 ?>
 
