@@ -4,7 +4,7 @@ $heroLinks = [
     ['href' => 'https://www.instagram.com/carlonzon', 'icon' => 'bx bxl-instagram-alt'],
 ];
 
-$profileImg = 'data:image/png;base64,' . base64_encode(file_get_contents(realpath('./../../public/assets/img/me.png')));
+$profileImg = 'data:image/png;base64,' . base64_encode(file_get_contents(realpath('./../assets/img/me.png')));
 ?>
 
 <section class="flex gap-x-3">
