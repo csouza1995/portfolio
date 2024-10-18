@@ -14,17 +14,17 @@
 </head>
 
 <body class="bg-slate-900 text-gray-200">
-    <?php include('../components/header.php'); ?>
+    <?php include('components/header.php'); ?>
 
     <main class="mx-auto max-w-screen-lg px-3 py-6">
         <!-- hero -->
-        <?php include('../components/hero.php'); ?>
+        <?php include('components/hero.php'); ?>
 
         <!-- projects -->
-        <?php include('../components/projects.php'); ?>
+        <?php include('components/projects.php'); ?>
     </main>
 
-    <?php include('../components/footer.php'); ?>
+    <?php include('components/footer.php'); ?>
 </body>
 
 </html>

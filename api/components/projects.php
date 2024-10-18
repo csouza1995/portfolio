@@ -42,7 +42,7 @@ $projects = [
 ];
 
 foreach ($projects as $key => $project) {
-    $image = realpath('./../api/assets/img/project-' . $project['id'] . '.png');
+    $image = realpath('./../../pulbic/assets/img/project-' . $project['id'] . '.png');
 
     if ($image) {
         $projects[$key]['image'] = 'data:image/png;base64,' . base64_encode(file_get_contents($image));
